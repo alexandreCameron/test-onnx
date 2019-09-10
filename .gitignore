@@ -1,3 +1,12 @@
+venv3_test-onnx/**
+**~
+*onnx
+data/*
+**dot
+**png
+
+# # Python specific github auto-generater
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
